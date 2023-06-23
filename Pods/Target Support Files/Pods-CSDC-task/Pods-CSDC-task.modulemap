@@ -1,0 +1,6 @@
+framework module Pods_CSDC_task {
+  umbrella header "Pods-CSDC-task-umbrella.h"
+
+  export *
+  module * { export * }
+}
